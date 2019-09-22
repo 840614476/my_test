@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" filepath="$PROJECT_DIR$/../dangdang/.idea/dangdang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jingdong.iml" filepath="$PROJECT_DIR$/.idea/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../数据挖掘/.idea/数据挖掘.iml" filepath="$PROJECT_DIR$/../数据挖掘/.idea/数据挖掘.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../测试test/.idea/测试test.iml" filepath="$PROJECT_DIR$/../测试test/.idea/测试test.iml" />
+    </modules>
+  </component>
+</project>
