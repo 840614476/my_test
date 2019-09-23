@@ -25,4 +25,4 @@ class DdSpider(scrapy.Spider):
         yield item
         for i in range(2,27):
             url = "http://category.dangdang.com/pg" + str(i) + "-cp01.54.06.19.00.00.html"
-            yield Request(url, callback = self.parse)                                         #回调函数
+            yield Request(url, callback = self.parse, headers=self.headers, cookies=self.cookies)       
